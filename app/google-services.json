@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "803403820872",
+    "firebase_url": "https://practice-9b6ba.firebaseio.com",
+    "project_id": "practice-9b6ba",
+    "storage_bucket": "practice-9b6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803403820872:android:7ca2047469f1771fca0d7d",
+        "android_client_info": {
+          "package_name": "com.example.app_finalpoject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WLeKoGq5vNBTn0PRQ30epq02NdyQ-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803403820872:android:636d64dd88afb04dca0d7d",
+        "android_client_info": {
+          "package_name": "tw.edu.yuntech.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WLeKoGq5vNBTn0PRQ30epq02NdyQ-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803403820872:android:d110e3138784370bca0d7d",
+        "android_client_info": {
+          "package_name": "tw.edu.yuntech.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WLeKoGq5vNBTn0PRQ30epq02NdyQ-Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803403820872-03qcjkfh38grht2ngc8t9odfuls0nlgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
